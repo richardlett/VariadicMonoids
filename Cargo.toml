@@ -1,6 +1,6 @@
 [package]
 name = "variadic_monoids"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Richard Lettich <richardl@berkeley.edu>"]
 edition = "2018"
 description = "Construct variadic functions using monoids"

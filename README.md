@@ -11,7 +11,7 @@ Where Identity is an identity operation on f. (Specifically, only `f(a, identity
 
 How to Use:
 ```rust
-use varytest::*;
+use variadic_monoids::*;
 
 // You must create a name for your monoid with a struct. This allows you to
 // create multiple monoids per type (and they can be for external too)
@@ -35,4 +35,4 @@ In your ```Cargo.toml```
 
     [dependencies]
     ...
-    variadic_monoids="0.1.0"
+    variadic_monoids="0.1.1"
