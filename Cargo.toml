@@ -1,5 +1,5 @@
 [package]
-name = "VariadicMonoids"
+name = "variadic_monoids"
 version = "0.1.0"
 authors = ["Richard Lettich <richardl@berkeley.edu>"]
 edition = "2018"
