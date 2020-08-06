@@ -7,7 +7,7 @@ More simply, given a `fn f(T,T) -> T`, this crate allows you to produce a variad
 f'(a: T,b: T, c: T,....) == f(a,f(b,f(c,...f(z,identity)..)))
 ```
 
-Where Identity is an identity operation on f. (Specifically, only `f(a, identity) == a` must actually hold).
+Where Identity is an identity element on f. (Specifically, only `f(a, identity) == a` must actually hold).
 
 How to Use:
 ```rust
