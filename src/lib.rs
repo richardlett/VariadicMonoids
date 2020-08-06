@@ -33,6 +33,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 #![feature(const_generics)]
 #![feature(unsized_locals)]
 #![feature(trivial_bounds)]
+#![allow(incomplete_features)]
 
 use std::marker::PhantomData;
 use tuple_list::{Tuple, TupleList};
