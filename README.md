@@ -1,5 +1,5 @@
 # VariadicMonoids
-This small crate provides (experimental) support for creating variadic functions from monads.
+This small crate provides (experimental) support for creating variadic functions from monoids.
 
 More simply, given a `fn f(T,T) -> T`, this crate allows you to produce a variadic function `f'` such that
 
